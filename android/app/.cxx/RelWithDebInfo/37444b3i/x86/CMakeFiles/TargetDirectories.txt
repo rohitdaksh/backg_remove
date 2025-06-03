@@ -1,0 +1,2 @@
+C:/Users/rohit/StudioProjects/backg_remove/android/app/.cxx/RelWithDebInfo/37444b3i/x86/CMakeFiles/edit_cache.dir
+C:/Users/rohit/StudioProjects/backg_remove/android/app/.cxx/RelWithDebInfo/37444b3i/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+C:\Users\rohit\StudioProjects\backg_remove\build\app\intermediates\cxx\RelWithDebInfo\37444b3i\obj\arm64-v8a
